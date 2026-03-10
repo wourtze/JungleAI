@@ -3,9 +3,9 @@
 **Код с инстинктом выживания.**  
 AI-движок, созданный для эффективности и адаптивности.
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square)
+![Version](https://img.shields.io/github/v/release/ваш-username/JungleAI?style=flat-square&label=Version&color=orange)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/ваш-username/JungleAI?style=flat-square&color=blue)
 
 * * *
 
