@@ -1,4 +1,4 @@
-![JungleAI Logo](assets/jungleAI.png.png)
+![JungleAI Logo](assets/JungleAI.png.png)
 
 # 🤍JungleAI🤍
 
