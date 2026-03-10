@@ -1,3 +1,5 @@
+![JungleAI Logo](assets/jungleAI.png.pnp)
+
 # JungleAI
 
 **Код с инстинктом выживания.**  
