@@ -4,8 +4,9 @@
 AI-движок, созданный для эффективности и адаптивности.
 
 [![Download](https://img.shields.io/badge/Download-Latest-brightgreen?style=flat-square)](https://github.com/ваш-username/JungleAI/releases/latest)
+
 ![Version](https://img.shields.io/github/v/release/ваш-username/JungleAI?style=flat-square&label=Version&color=orange)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
 ![Last Commit](https://img.shields.io/github/last-commit/ваш-username/JungleAI?style=flat-square&color=blue)
 
 * * *
