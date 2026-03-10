@@ -1,8 +1,8 @@
-![JungleAI Logo](assets/Jungle.png.png)
-
 # 🤍JungleAI🤍
 
 **Развивающиеся разрботчиком бот.**  
+
+![JungleAI Logo](assets/Jungle.ico.ico)
 
 * * *
 
